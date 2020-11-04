@@ -2,7 +2,7 @@
 
 ## Tutorial Table of Contents
 
-All notebook tutorials can be found at https://github.com/podaac/tutorials/tree/master/notebooks
+All notebook tutorials can be found at <https://github.com/podaac/tutorials/tree/master/notebooks>
 
 ## FAQs
 
