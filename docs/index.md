@@ -6,11 +6,11 @@ All notebook tutorials can be found at <https://github.com/podaac/tutorials/tree
 
 ## FAQs
 
-* [Can i browse PO.DAAC buckets directly from Amazon or through other AWS command line tools](#can-i-browse-podaac-buckets-directly-from-amazon-or-through-other-aws-command-line-tool)
+* [Can i browse PO.DAAC buckets directly from Amazon or through other AWS command line tools?](#can-i-browse-podaac-buckets-directly-from-amazon-or-through-other-aws-command-line-tool)
 * Will datasets ever (always?) be stored in different s3 buckets?
 * Is there a concept of "path" inside a bucket?
 
-### Can I browse PO.DAAC buckets directly from Amazon or through other AWS command line toolsß
+### Can I browse PO.DAAC buckets directly from Amazon or through other AWS command line tools
 
 Not yet. We are working to iron out some permission issues and constraints on this feature, but hope to offer it soon. Many tools and data analysis kits are built for distributed access over many files in parallel, and we want to enable this same analysis on our data archive.
 
